@@ -1,5 +1,5 @@
 # Computer-Vision
-Weekly programming exercise of "Computer Vision" course at ETH, Zurich
+Weekly programming exercise of "Computer Vision" course (HS2020) at ETH, Zurich
 
 Lab1:     Camera calibration  
 
@@ -22,4 +22,6 @@ Lab9\*:   Condensation tracker
 Lab10\*: Image categorization
 
 *Note: Lab assignments with full mark are labeld with \**
+
+CV\_Notes.pdf: give credit to [Mokhles Bouzaien](https://www.bouzaien.com/) 
 
